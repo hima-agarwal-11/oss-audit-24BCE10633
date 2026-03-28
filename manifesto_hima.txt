@@ -1,0 +1,17 @@
+======================================
+   MY OPEN SOURCE MANIFESTO
+   By Hima Agarwal | 24BCE10633
+   Date: 28 March 2026
+======================================
+
+Every day, I rely on git — a tool built freely and shared openly by
+developers who believed that knowledge belongs to everyone. To me,
+freedom means independence. That is the spirit that drives open source:
+the freedom to use, study, modify, and share without restriction.
+
+If I could build anything and share it freely, I would build app.
+Because standing on the shoulders of giants means giving back to
+the community that made your work possible in the first place.
+
+Open source is not just a license. It is a philosophy.
+======================================
